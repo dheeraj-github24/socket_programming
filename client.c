@@ -15,6 +15,7 @@
 int main()
 {
 	int sd;
+	// comment
 	struct sockaddr_in serv_addr;
 	char buf[256];
 	//open a TCP socket (a internet stream socket).
